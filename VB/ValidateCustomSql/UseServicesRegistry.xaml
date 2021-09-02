@@ -4,7 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:dxrud="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner"
-             xmlns:daservices="clr-namespace:DevExpress.DataAccess.Wizard.Services;assembly=DevExpress.DataAccess.v17.2"
+             xmlns:daservices="clr-namespace:DevExpress.DataAccess.Wizard.Services;assembly=DevExpress.DataAccess.v21.1"
              xmlns:dxda="http://schemas.devexpress.com/winfx/2008/xaml/dataaccess"
              xmlns:local="clr-namespace:ValidateCustomSql"
              mc:Ignorable="d" 
