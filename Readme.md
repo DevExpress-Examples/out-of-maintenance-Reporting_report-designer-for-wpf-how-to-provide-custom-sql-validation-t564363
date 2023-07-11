@@ -6,13 +6,13 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CustomQueryValidator.cs](./CS/ValidateCustomSql/CustomQueryValidator.cs) (VB: [CustomQueryValidator.vb](./VB/ValidateCustomSql/CustomQueryValidator.vb))
-* [MainWindow.xaml](./CS/ValidateCustomSql/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ValidateCustomSql/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/ValidateCustomSql/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/ValidateCustomSql/MainWindow.xaml.vb))
-* [UseServicesRegistry.xaml](./CS/ValidateCustomSql/UseServicesRegistry.xaml) (VB: [UseServicesRegistry.xaml](./VB/ValidateCustomSql/UseServicesRegistry.xaml))
-* [UseServicesRegistry.xaml.cs](./CS/ValidateCustomSql/UseServicesRegistry.xaml.cs) (VB: [UseServicesRegistry.xaml.vb](./VB/ValidateCustomSql/UseServicesRegistry.xaml.vb))
-* [UseWizardCustomization.xaml](./CS/ValidateCustomSql/UseWizardCustomization.xaml) (VB: [UseWizardCustomization.xaml](./VB/ValidateCustomSql/UseWizardCustomization.xaml))
-* [UseWizardCustomization.xaml.cs](./CS/ValidateCustomSql/UseWizardCustomization.xaml.cs) (VB: [UseWizardCustomization.xaml.vb](./VB/ValidateCustomSql/UseWizardCustomization.xaml.vb))
+* [CustomQueryValidator.cs](./CS/CustomQueryValidator.cs) (VB: [CustomQueryValidator.vb](./VB/CustomQueryValidator.vb))
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
+* [UseServicesRegistry.xaml](./CS/UseServicesRegistry.xaml) (VB: [UseServicesRegistry.xaml](./VB/UseServicesRegistry.xaml))
+* [UseServicesRegistry.xaml.cs](./CS/UseServicesRegistry.xaml.cs) (VB: [UseServicesRegistry.xaml.vb](./VB/UseServicesRegistry.xaml.vb))
+* [UseWizardCustomization.xaml](./CS/UseWizardCustomization.xaml) (VB: [UseWizardCustomization.xaml](./VB/UseWizardCustomization.xaml))
+* [UseWizardCustomization.xaml.cs](./CS/UseWizardCustomization.xaml.cs) (VB: [UseWizardCustomization.xaml.vb](./VB/UseWizardCustomization.xaml.vb))
 <!-- default file list end -->
 # Report Designer for WPF - How to provide custom SQL validation
 
